@@ -1,0 +1,71 @@
+body {
+    font-family: 'Oswaldo', sans-serif;
+    background-color: darkgray;
+    text-align: center;
+}
+
+.title {
+    color: yellow;
+    background-color: black;
+    font-family: compacta;
+    font-size: 60px;
+}
+
+.q1 {
+    color: white;
+    background-color: black;
+    font-size: 60px;
+}
+
+
+.q2 {
+    color: white;
+    background-color: black;
+    font-size: 60px;
+}
+
+h4 {
+    background-color: white;
+
+}
+
+.u {
+    justify-content: center;
+    width: 500px;
+    border: 20px groove red;
+}
+
+
+.mes {
+    color: red;
+    background-color: Black;
+    font-size: 60px;
+    display: none;
+}
+
+.me {
+    color: limegreen;
+    background-color: white;
+    font-size: 60px;
+    display: none;
+}
+
+.one {
+    background-color: cyan;
+    font-size:30px;
+}
+.userInput{
+ font-size:30px;  
+    border-color: black;
+    border-width: 10px;
+}
+.input{
+ font-size:30px;  
+    border-color: black;
+    border-width: 10px;
+}
+.final {
+    border-color: gray;
+    color: blue;
+    font-size:30px;
+}
